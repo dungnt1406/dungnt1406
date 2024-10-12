@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @dungnt1406<br>- 👀 I’m interested in AI, machine learning and their application<br>- 🌱 I’m currently learning at FPT university, AI course.<br>
+👋 Hi, I’m @dungnt1406<br> 👀 I’m interested in AI, machine learning and their application<br> 🌱 I’m currently learning at FPT university, AI course.<br>
 
 
 ## 🌐 Socials:
